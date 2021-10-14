@@ -2,3 +2,7 @@ it is a very important class file
 class is an important
 This line is added by Devlopment branch
 This line added by master branch
+<<<<<<< HEAD
+=======
+Line added for testing
+>>>>>>> 7af4acd (updated to check stash)
